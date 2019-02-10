@@ -1,0 +1,21 @@
+body {
+    color: black;
+    margin: 0;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-size: 21px;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+
+body .header {
+    text-align: left;
+    margin: 50px;
+}
+
+body .game .background .photo {
+    display: flex;
+    padding-top: 200px;
+    border-radius: 20px;
+    background-size: cover;
+
+}
