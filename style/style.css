@@ -20,3 +20,13 @@ body .game .background .photo {
     z-index: -1;
 
 }
+body .game .info-screen{
+    text-align: right;
+    margin-top: 300px;
+    padding-left: 200px;
+    -webkit-font-smoothing: antialiased;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+body .game .info-screen .subheader{
+    font-size: 35;
+}
