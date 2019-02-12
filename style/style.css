@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 10% 20%;
-    background-size: 80% 70%;
+    background-size: 150px 70%;
 }
 
 body .header {
@@ -33,6 +33,10 @@ body .game .info-screen{
     -webkit-font-smoothing: antialiased;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
-body .game .info-screen .subheader{
-    font-size: 35;
+body .game .subheader{
+    position: absolute;
+    left: 12%;
+    top: 28%
+    width: 100%;
+    font-size: 80%;
 }
