@@ -9,8 +9,8 @@ body {
     background-color: darkgray;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 10% 60%;
-    background-size: 60% 40%;
+    background-position: 10% 20%;
+    background-size: 80% 70%;
 }
 
 body .header {
