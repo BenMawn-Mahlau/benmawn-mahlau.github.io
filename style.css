@@ -1,0 +1,38 @@
+body {
+    color: black;
+    margin: 0;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-size: 21px;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    background-image: url("resources/background2.jpg");
+    background-color: darkgray;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 10% 60%;
+    background-size: 60% 40%;
+}
+
+body .header {
+    text-align: left;
+    margin: 50px;
+}
+/*
+body .game .background .photo {
+    margin: 100px;
+    padding-top: 200px;
+    border-radius: 20px;
+    background-size: cover;
+    z-index: -1;
+*/
+}
+body .game .info-screen{
+    text-align: right;
+    margin-top: 300px;
+    padding-left: 200px;
+    -webkit-font-smoothing: antialiased;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+body .game .info-screen .subheader{
+    font-size: 35;
+}
