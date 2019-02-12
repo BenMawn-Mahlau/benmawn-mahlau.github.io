@@ -27,16 +27,22 @@ body .game .background .photo {
 */
 }
 body .game .info-screen{
-    text-align: right;
-    margin-top: 300px;
-    padding-left: 200px;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    text-align: center;
     -webkit-font-smoothing: antialiased;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 body .game .subheader{
     position: absolute;
-    left: 12%;
-    top: 28%
+    left: 60%;
+    top: 28%;
     width: 100%;
     font-size: 80%;
+}
+body .game .sidebar{
+    position: absolute;
+    left: 12%;
+    top: 28%;
 }
