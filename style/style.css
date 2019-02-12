@@ -8,7 +8,7 @@ body {
     background-image: url("resources/background2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 80% 60%;
+    background-position: 10% 60%;
 }
 
 body .header {
