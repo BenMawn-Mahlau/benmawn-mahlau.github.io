@@ -33,6 +33,7 @@ body .game .info-screen{
     top: 40%;
     text-align: center;
     -webkit-font-smoothing: antialiased;
+    font-size: 60%
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 body .game .subheader{
@@ -50,5 +51,6 @@ body .game .sidebar{
 body .game .topbar{
     position: absolute;
     left: 10%;
-    top: 25%;
+    top: 12%;
+    font-size: 120%;
 }
