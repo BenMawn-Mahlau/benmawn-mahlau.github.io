@@ -5,12 +5,14 @@ body {
     letter-spacing: -.003em;
     font-size: 21px;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+  /*
     background-image: url("resources/background2.jpg");
     background-color: aliceblue;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 10% 25%;
     background-size: 80% 70%;
+    */
 }
 
 body .header {
@@ -18,15 +20,15 @@ body .header {
     top: 2%;
     left: 5%;
 }
-/*
+
 body .game .background .photo {
-    margin: 100px;
-    padding-top: 200px;
-    border-radius: 20px;
-    background-size: cover;
-    z-index: -1;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+    size: 80% 70%;
+
 }
-*/
+
 body .game .info-screen{
     position: absolute;
     left: 40%;
@@ -50,6 +52,7 @@ body .game .sidebar{
 body .game .topbar{
     position: absolute;
     width: 100%;
+
     left: 8%;
     top: 12%;
     font-size: 120%;
