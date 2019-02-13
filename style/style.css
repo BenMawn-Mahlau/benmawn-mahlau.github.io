@@ -10,13 +10,13 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 10% 25%;
-    background-size: 90% 70%;
+    background-size: 80% 70%;
 }
 
 body .header {
-    text-align: left;
-    margin-top: 5%;
-    margin-left: 5%;
+    position: absolute;
+    top: 2%;
+    left: 5%;
 }
 /*
 body .game .background .photo {
