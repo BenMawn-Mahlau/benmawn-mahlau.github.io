@@ -25,8 +25,8 @@ body .game .background .photo {
     border-radius: 20px;
     background-size: cover;
     z-index: -1;
-*/
 }
+*/
 body .game .info-screen{
     position: absolute;
     left: 40%;
@@ -46,4 +46,9 @@ body .game .sidebar{
     position: absolute;
     left: 12%;
     top: 28%;
+}
+body .game .topbar{
+    position: absolute;
+    left: 10%;
+    top: 25%;
 }
