@@ -9,8 +9,8 @@ body {
     background-color: aliceblue;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 10% 20%;
-    background-size: 150px 70%;
+    background-position: 10% 25%;
+    background-size: 90% 70%;
 }
 
 body .header {
