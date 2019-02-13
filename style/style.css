@@ -21,7 +21,7 @@ body .header {
     left: 5%;
 }
 
-body .game .background .photo {
+body .game {
     position: absolute;
     left: 10%;
     top: 25%;
