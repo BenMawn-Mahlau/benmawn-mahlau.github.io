@@ -25,8 +25,10 @@ body .game .background{
     position: absolute;
     left: 5%;
     top: 12.5%;
-    size: 80% 70%;
+}
 
+body .game .background .photo{
+    size: 80% 70%;
 }
 
 body .game .info-screen{
