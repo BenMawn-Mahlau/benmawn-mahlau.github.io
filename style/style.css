@@ -54,21 +54,23 @@ body .game .sidebar{
 body .game .topbar{
     position: absolute;
     width: 100%;
-    top: 12%;
     font-size: 120%;
 }
 
 body .game .topbar .tab1{
     position: absolute;
+    top: 12%;
     left: 8%;
 }
 
 body .game .topbar .tab2{
     position: absolute;
+    top: 12%;
     left: 12%;
 }
 
 body .game .topbar .tab2{
     position: absolute;
+    top: 12%;
     left: 16%;
 }
