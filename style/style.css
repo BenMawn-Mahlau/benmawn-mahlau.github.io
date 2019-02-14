@@ -23,8 +23,8 @@ body .header {
 
 body .game .background{
     position: absolute;
-    left: 10%;
-    top: 25%;
+    left: 5%;
+    top: 12.5%;
     size: 80% 70%;
 
 }
@@ -39,7 +39,7 @@ body .game .info-screen{
 }
 body .game .subheader{
     position: absolute;
-    left: 60%;
+    left: 45%;
     top: 28%;
     text-align: center;
     font-size: 80%;
